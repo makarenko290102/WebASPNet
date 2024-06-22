@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Desktop\\asp,net\\WebASPNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED30E332-CB65-4F99-B16E-40D389630726}|WebASPNet\\WebASPNet.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\desktop\\asp,net\\webaspnet\\webaspnet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED30E332-CB65-4F99-B16E-40D389630726}|WebASPNet\\WebASPNet.csproj|solutionrelative:webaspnet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED30E332-CB65-4F99-B16E-40D389630726}|WebASPNet\\WebASPNet.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\desktop\\asp,net\\webaspnet\\webaspnet\\controllers\\miniaturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED30E332-CB65-4F99-B16E-40D389630726}|WebASPNet\\WebASPNet.csproj|solutionrelative:webaspnet\\controllers\\miniaturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED30E332-CB65-4F99-B16E-40D389630726}|WebASPNet\\WebASPNet.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\desktop\\asp,net\\webaspnet\\webaspnet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED30E332-CB65-4F99-B16E-40D389630726}|WebASPNet\\WebASPNet.csproj|solutionrelative:webaspnet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED30E332-CB65-4F99-B16E-40D389630726}|WebASPNet\\WebASPNet.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\desktop\\asp,net\\webaspnet\\webaspnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED30E332-CB65-4F99-B16E-40D389630726}|WebASPNet\\WebASPNet.csproj|solutionrelative:webaspnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED30E332-CB65-4F99-B16E-40D389630726}|WebASPNet\\WebASPNet.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\desktop\\asp,net\\webaspnet\\webaspnet\\models\\miniature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED30E332-CB65-4F99-B16E-40D389630726}|WebASPNet\\WebASPNet.csproj|solutionrelative:webaspnet\\models\\miniature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED30E332-CB65-4F99-B16E-40D389630726}|WebASPNet\\WebASPNet.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\desktop\\asp,net\\webaspnet\\webaspnet\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED30E332-CB65-4F99-B16E-40D389630726}|WebASPNet\\WebASPNet.csproj|solutionrelative:webaspnet\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED30E332-CB65-4F99-B16E-40D389630726}|WebASPNet\\WebASPNet.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\desktop\\asp,net\\webaspnet\\webaspnet\\migrations\\20240622072713_addminiaturestableondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED30E332-CB65-4F99-B16E-40D389630726}|WebASPNet\\WebASPNet.csproj|solutionrelative:webaspnet\\migrations\\20240622072713_addminiaturestableondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Desktop\\asp,net\\WebASPNet\\WebASPNet\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebASPNet\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Desktop\\asp,net\\WebASPNet\\WebASPNet\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebASPNet\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAB8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T07:40:38.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MiniaturesController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Desktop\\asp,net\\WebASPNet\\WebASPNet\\Controllers\\MiniaturesController.cs",
+              "RelativeDocumentMoniker": "WebASPNet\\Controllers\\MiniaturesController.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Desktop\\asp,net\\WebASPNet\\WebASPNet\\Controllers\\MiniaturesController.cs",
+              "RelativeToolTip": "WebASPNet\\Controllers\\MiniaturesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T07:38:46.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Desktop\\asp,net\\WebASPNet\\WebASPNet\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebASPNet\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Desktop\\asp,net\\WebASPNet\\WebASPNet\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebASPNet\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T07:33:41.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240622072713_AddMiniaturesTableOnDb.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Desktop\\asp,net\\WebASPNet\\WebASPNet\\Migrations\\20240622072713_AddMiniaturesTableOnDb.cs",
+              "RelativeDocumentMoniker": "WebASPNet\\Migrations\\20240622072713_AddMiniaturesTableOnDb.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Desktop\\asp,net\\WebASPNet\\WebASPNet\\Migrations\\20240622072713_AddMiniaturesTableOnDb.cs",
+              "RelativeToolTip": "WebASPNet\\Migrations\\20240622072713_AddMiniaturesTableOnDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T07:27:13.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Miniature.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Desktop\\asp,net\\WebASPNet\\WebASPNet\\Models\\Miniature.cs",
+              "RelativeDocumentMoniker": "WebASPNet\\Models\\Miniature.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Desktop\\asp,net\\WebASPNet\\WebASPNet\\Models\\Miniature.cs",
+              "RelativeToolTip": "WebASPNet\\Models\\Miniature.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T07:26:40.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Desktop\\asp,net\\WebASPNet\\WebASPNet\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebASPNet\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Desktop\\asp,net\\WebASPNet\\WebASPNet\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebASPNet\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T07:09:23.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Desktop\\asp,net\\WebASPNet\\WebASPNet\\Program.cs",
+              "RelativeDocumentMoniker": "WebASPNet\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Desktop\\asp,net\\WebASPNet\\WebASPNet\\Program.cs",
+              "RelativeToolTip": "WebASPNet\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T07:08:37.818Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
